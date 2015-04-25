@@ -1,2 +1,2 @@
-# script-for-illustrator
-Some script for Adobe Illustrator, mainly written in JS
+# Scripts for Illustrator
+Some script for Adobe Illustrator, mainly written in JS.
